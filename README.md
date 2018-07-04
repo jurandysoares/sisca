@@ -33,3 +33,7 @@ Apagar arquivo cujo nome é `os.getpid()`
 * [os.stat_result](https://docs.python.org/3/library/os.html?highlight=os%20stat#os.stat_result) 
 
 O atributo `st_mtime` devolvido por *os.stat* é útil para saber a data da última modificação de conteúdo de um arquivo.
+
+## Referências
+* [Where is Tomboy data stored?](https://wiki.gnome.org/Apps/Tomboy/Directories)
+* [XDG Base Directory Specification](https://wiki.gnome.org/Apps/Tomboy/Directories)
